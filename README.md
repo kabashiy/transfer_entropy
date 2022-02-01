@@ -9,5 +9,5 @@ For reproduding Figure 8 or 9:
 
 Data files:
 
-Time courses for protein translocations in single cells are recorded in csv format. “wild/sos_wt.csv” and “wild/raf_wt.csv” are the data for Fig.6. “mutant/sos_1131.csv” and “mutant/raf_1131.csv” are the data for Fig.7. In each file, the first column indicates times (min) of EGF stimulation. The second and after columns indicate signal intensities in single cells at the indicated time points. The first row shows the cell index, and the SOS and RAF responses with the same index were obtained simultaneously in the same cell. These data are licensed under [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
+Time courses for protein translocations in single cells are recorded in csv format. “wild/sos_wt.csv” and “wild/raf_wt.csv” are the data for Figure 6. “mutant/sos_1131.csv” and “mutant/raf_1131.csv” are the data for Figure 7. In each file, the first column indicates times (min) of EGF stimulation. The second and after columns indicate signal intensities in single cells at the indicated time points. The first row shows the cell index, and the SOS and RAF responses with the same index were obtained simultaneously in the same cell. These data are licensed under [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
 
