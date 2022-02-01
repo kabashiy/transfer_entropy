@@ -3,7 +3,7 @@ Codes and data used in a paper, Imaizumi et al., "Assessing transfer entropy fro
 
 For reproduding Figure 8 or 9: 
 
-* Open TE_by_Gaussian_Approximation.ipynb
+* Open TE_by_Gaussian_Approximation.ipynb by Jupyter Notebook
 * Assign 'wild' or 'mutant' to variable DIR in the first cell
 * Carry out 'Run All'
 
