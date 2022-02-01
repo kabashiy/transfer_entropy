@@ -7,4 +7,4 @@ For reproduding Figure 8 or 9:
 * Assign 'wild' or 'mutant' to variable DIR in the first cell
 * Carry out 'Run All'
 
-Data in "[wild](https://github.com/kabashiy/transfer_entropy/tree/main/wild)" and "[mutant](https://github.com/kabashiy/transfer_entropy/tree/main/mutant)" folders  are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
+Data in '[wild](https://github.com/kabashiy/transfer_entropy/tree/main/wild)' and '[mutant](https://github.com/kabashiy/transfer_entropy/tree/main/mutant)' folders  are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
