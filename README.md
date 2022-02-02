@@ -1,7 +1,7 @@
 # transfer_entropy
 Code and data used in a paper, Imaizumi et al., "Assessing transfer entropy from biochemical data", arXiv:2111.04931.
 
-For reproduding Figure 8 or 9: 
+For reproduding Figures 6--9: 
 
 * Open TE_by_Gaussian_Approximation.ipynb by Jupyter Notebook
 * Assign 'wild' or 'mutant' to variable DIR in the first cell
