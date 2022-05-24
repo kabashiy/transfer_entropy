@@ -1,5 +1,5 @@
 # transfer_entropy
-Code and data used in a paper, Imaizumi et al., "Assessing transfer entropy from biochemical data", arXiv:2111.04931.
+Code and data used in a paper, Imaizumi et al., "Assessing transfer entropy from biochemical data", Phys. Rev. E. 105, 034403 (1-13) (2022).
 
 For reproduding Figures 6-9: 
 
